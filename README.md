@@ -1,4 +1,4 @@
-= UM Center for Statistical Genetics Coding Style Guideliness =
+# UM Center for Statistical Genetics Coding Style Guideliness
 
 > All code in any code-base should look like a single person typed it, no matter how many people contributed. [idiomatic.js](https://github.com/rwaldron/idiomatic.js)
 
