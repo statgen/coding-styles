@@ -7,4 +7,3 @@ is included here.
 
 We also recommend [PerlTidy](https://metacpan.org/pod/Perl::Tidy) for code
 formatting. A local `.perltidyrc` is included here.
-:q
